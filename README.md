@@ -1,6 +1,6 @@
 # FLAPPY BIRDS
 
-A straightforward Flappy birds clone
+A straightforward Flappy birds clone created using primitive shapes.
 
 Features :
 1. Obstacles and gaps at random heights.
